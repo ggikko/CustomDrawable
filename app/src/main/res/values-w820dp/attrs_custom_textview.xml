@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AccountCircleView">
+        <attr name="csBackgroundColor" format="color"/>
+        <attr name="csBorderColor" format="color"/>
+        <attr name="csRadius" format="dimension"/>
+    </declare-styleable>
+</resources>
